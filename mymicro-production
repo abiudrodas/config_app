@@ -1,0 +1,4 @@
+ENV: production
+DEBUG: False
+DB_URL: http://example.com.production
+SECRET_KEY: production_secret_key
